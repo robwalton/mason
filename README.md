@@ -1,6 +1,17 @@
 Mason's Rule Solver
 ===================
 
+Mason.m uses mason's rule to simplify signal flow graphs. It takes a
+file describing the network and produces a symbolic equation relating
+a dependent output node to an independent input node. 
+  
+Mason's rule is traditionally used for control system analysis but has
+applications in microwave circuit design, filter design and many other
+areas.
+
+Theory
+------
+
 This program crunches down a signal flow graph to generate a symbolic 
 equation for the equivalent phaser relating an output node and an input
 node. For example:
