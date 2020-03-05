@@ -133,7 +133,7 @@ I have tested this program with many different networks, and used it
 a lot in my research. However don't assume it is perfect! If you find
 any bugs, or if you find this program useful, give me a shout.
 
-Rob Walton
+Rob Walton --- 2000
 
 Written at TRLabs, Calgary, Alberta, Canada.
 
